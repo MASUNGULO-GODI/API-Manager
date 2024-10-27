@@ -1,0 +1,21 @@
+body {
+  background-color: hsl(323, 77%, 42%);
+  font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3 {
+  color: hwb(246 3% 58%);
+}
+
+.container {
+  max-width: 1200px;
+}
+
+.text-center {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  margin-top: 10px;
+}
